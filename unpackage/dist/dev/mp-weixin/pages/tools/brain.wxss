@@ -1,0 +1,11 @@
+
+.brain{
+	margin: 40rpx;
+	margin-top: 80rpx;
+}
+.answer{
+	margin-top: 40rpx;
+	margin-bottom: 40rpx;
+	border: 2rpx solid #f9ae3d;
+}
+

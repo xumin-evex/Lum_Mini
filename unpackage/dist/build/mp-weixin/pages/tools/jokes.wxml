@@ -1,0 +1,1 @@
+<view class="hot"><view><u--text vue-id="2f06ce0f-1" type="primary" text="{{content}}" bind:__l="__l"></u--text></view><view style="padding:40rpx;margin-top:80rpx;"><u-button vue-id="2f06ce0f-2" type="error" text="Next" data-event-opts="{{[['^click',[['nextJokes']]]]}}" bind:click="__e" bind:__l="__l"></u-button></view></view>

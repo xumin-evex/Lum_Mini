@@ -1,0 +1,8 @@
+
+.main{
+	margin: 40rpx;
+}
+.digest{
+	margin-top: 20rpx;
+}
+

@@ -1,0 +1,31 @@
+{
+    "pages": [
+        "pages/index/index",
+        "pages/tools/weather",
+        "pages/tools/lifeEasy",
+        "pages/tools/hotReview",
+        "pages/tools/dailyWord",
+        "pages/tools/jokes",
+        "pages/tools/qrcode",
+        "pages/tools/douyin",
+        "pages/tools/movie",
+        "pages/index/life",
+        "pages/tools/level",
+        "pages/tools/brain",
+        "pages/life/life"
+    ],
+    "subPackages": [],
+    "window": {
+        "navigationBarTextStyle": "black",
+        "navigationBarTitleText": "evexm",
+        "navigationBarBackgroundColor": "#F8F8F8",
+        "backgroundColor": "#F8F8F8"
+    },
+    "permission": {
+        "scope.userLocation": {
+            "desc": "申请使用你的位置"
+        }
+    },
+    "usingComponents": {},
+    "sitemapLocation": "sitemap.json"
+}
